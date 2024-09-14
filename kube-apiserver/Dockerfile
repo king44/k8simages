@@ -1,1 +1,1 @@
-FROM kube-apiserver:v1.14.0
+FROM mysql
